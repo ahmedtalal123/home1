@@ -1,0 +1,110 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+h3{
+    text-align: center;
+}
+
+#div1{
+    display: block;
+    float: left;
+    border-style: solid;
+    padding: auto;
+    margin: auto;
+    background-color: rgb(245, 220, 152, 0.3);
+    margin-left: 35px;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+body{
+    background-image: url(https://12b85ee3ac237063a29d-5a53cc07453e990f4c947526023745a3.ssl.cf5.rackcdn.com/cms-uploads/2b51bb5e8cbd9459c101e8e47bdedbcb.jpg);
+    background-repeat: no-repeat;
+    background-size: 1366px 768px;
+}
+
+nav{
+    text-align: center;
+}
+
+#div2{
+    display: block;
+    border-style: solid;
+    float: right;
+    padding: 50px 50px 10px 50px;
+    margin-right: 35px;
+    margin: 10px;
+    background-color: rgb(245, 220, 152, 0.3); 
+}
+
+#img1{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img2{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img3{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img4{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img5{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img6{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img7{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img8{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img9{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img10{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
